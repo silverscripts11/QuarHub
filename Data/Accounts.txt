@@ -7,7 +7,7 @@
 			"Month" : 12,
 			"Day" : 31
 		}
-	}
+	},
 	"24Promotion" : {
 		"Pass" : "Free",
 		"Member" : "Free",
