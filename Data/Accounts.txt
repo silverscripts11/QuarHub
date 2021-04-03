@@ -1,20 +1,20 @@
-{
-	"Quuar" : {
-		"Pass" : "Quarrity",
-		"Member" : "Owner++",
-		"Exp" : "Infinite",
-		"Expire" : {
-			"Month" : 12,
-			"Day" : 31
+{"Quuar" : {
+	"Pass" : "Quarrity",
+	"Member" : "Owner++",
+	"Exp" : "Infinite",
+	"Expire" : {
+		"Month" : 12,
+		"Day" : 31
 		}
-	},
-	"24Promotion" : {
-		"Pass" : "Free",
-		"Member" : "Free",
-		"Exp" : "4/4/2021",
-		"Expire" : {
-			"Month" : 4,
-			"Day" : 4
+	}
+},
+{"24Promo" : {
+	"Pass" : "FreePromo",
+	"Member" : "Free",
+	"Exp" : "4/4/2021",
+	"Expire" : {
+		"Month" : 4,
+		"Day" : 4
 		}
 	}
 }
