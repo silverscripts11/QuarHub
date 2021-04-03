@@ -1,20 +1,20 @@
 {
-	"Quuar" : {
+	"Quuar" : [{
 		"Pass" : "Quarrity",
 		"Member" : "Owner++",
 		"Exp" : "Infinite",
-		"Expire" : {
+		"Expire" : [{
 			"Month" : 12,
 			"Day" : 31
-		}
-	},
-	"24Promotion" : {
-		"Pass" : "Free",
+		}]
+	}],
+	"24Promo" : [{
+		"Pass" : "Fr33",
 		"Member" : "Free",
-		"Exp" : "5/4/2021",
-		"Expire" : {
+		"Exp" : "6/4/2021",
+		"Expire" : [{
 			"Month" : 4,
-			"Day" : 5
-		}
-	},
+			"Day" : 6
+		}]
+	}],
 }
