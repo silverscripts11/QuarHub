@@ -1,14 +1,20 @@
 {
-	 "Q" : { 
+	"Q" : {
+		"Pass" : "QQ",
+		"Member" : "Owner++",
 		"Exp" : "Infinite",
-		"Pass":"QQ",
-		"Member":"Owner++",
-		"Expire":{"Month":13, "Day":32}
-		},
-	"DeBug" : {
-		"Exp" : "Infinite",
-		"Pass":"DebuGAc",
-		"Member":"Error++",
-		"Expire":{"Month":13, "Day":32}
+		"Expire" : {
+			"Month" : 13,
+			"Day" : 32
 		}
-	}  
+	},
+	"24Promo" : {
+		"Pass" : "Fr33",
+		"Member" : "Free",
+		"Exp" : "6/4/2021",
+		"Expire" : {
+			"Month" : 4,
+			"Day" : 6
+		}
+	},
+}
