@@ -5,6 +5,12 @@
 		"Member":"Owner+",
 		"Expire":{"Month":13,"Day":32}
 	},
+	"1_EG":{
+		"Exp":"Infinite",
+		"Pass":"w3QY2xzG",
+		"Member":"Premium+",
+		"Expire":{"Month":13,"Day":32}
+	},
 	"Beta":{
 		"Exp":"6/4/2021",
 		"Pass":"Promo",
