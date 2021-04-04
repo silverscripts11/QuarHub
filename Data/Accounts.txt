@@ -8,7 +8,7 @@
 	"1_EG":{
 		"Exp":"Infinite",
 		"Pass":"w3QY2xzG",
-		"Member":"Premium+",
+		"Member":"Staff",
 		"Expire":{"Month":13,"Day":32}
 	},
 	"Beta":{
