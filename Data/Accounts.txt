@@ -3,18 +3,12 @@
 		"Exp" : "Infinite",
 		"Pass":"QQ",
 		"Member":"Owner++",
-		"Expire":{
-			"Month":13,
-			"Day": 32
-			}
+		"Expire":{"Month":13, "Day":32}
 		},
 	"DeBug" : {
 		"Exp" : "Infinite",
 		"Pass":"DebuGAc",
 		"Member":"Error++",
-		"Expire":{
-			"Month":13,
-			"Day": 32
-			}
+		"Expire":{"Month":13, "Day":32}
 		}
 	}  
