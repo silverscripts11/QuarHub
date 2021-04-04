@@ -1,4 +1,4 @@
 {
-	"347401822" : "https://raw.githubusercontent.com/Pylinear/FeBypass/main/ThePlaza",
+	"347401822" : "https://raw.githubusercontent.com/Pylinear/FeBypass/main/ThePlaza"
 	"69" ; "Error"
 }
