@@ -12,9 +12,9 @@
 		"Expire":{"Month":13,"Day":32}
 	},
 	"Beta":{
-		"Exp":"6/4/2021",
+		"Exp":"10/4/2021",
 		"Pass":"Promo",
 		"Member":"Beta+",
-		"Expire":{"Month":5,"Day":6}
+		"Expire":{"Month":4,"Day":10}
 	}
 }
