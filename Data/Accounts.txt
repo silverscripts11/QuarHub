@@ -11,6 +11,12 @@
 		"Member":"Staff",
 		"Expire":{"Month":13,"Day":32}
 	},
+	"1_Kieran":{
+		"Exp":"2/6/2021",
+		"Pass":"66rJpGbA",
+		"Member":"Gold++",
+		"Expire":{"Month":6,"Day":2}
+	},
 	"Beta":{
 		"Exp":"10/4/2021",
 		"Pass":"Promo",
